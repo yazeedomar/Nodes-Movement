@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>plugin</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yazeedomar.NodesMovement</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Nodes Movement</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.2</string> <!-- 1.0 -->
+	<key>CFBundleVersion</key>
+	<string>1</string> <!-- 123 -->
+	<key>productPageURL</key>
+	<string>https://github.com/yazeedomar/Nodes-Movement</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright, Yazeed Omar, 2026</string>
+	<key>NSPrincipalClass</key>
+	<string>NodesMovement</string>
+	<key>PyMainFileNames</key>
+	<array>
+		<string>plugin.py</string>
+	</array>
+</dict>
+</plist>
