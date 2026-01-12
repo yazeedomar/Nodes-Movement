@@ -27,10 +27,10 @@ class NodesMovement(ReporterPlugin):
 	def settings(self):
 		self.menuName = Glyphs.localize({
 			'en': 'Nodes Movement',
-			'de': 'Nodes Movement',
-			'fr': 'Nodes Movement',
-			'es': 'Nodes Movement',
-			'pt': 'Nodes Movement',
+			'de': 'Knotenbewegung',
+			'fr': 'Mouvement des nœuds',
+			'es': 'Movimiento de nodos',
+			'pt': 'Movimento de nós',
 		})
 		# Visual tuning
 		self.minDelta = 0.5  # ignore tiny movements

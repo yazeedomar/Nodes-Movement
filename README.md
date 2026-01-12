@@ -12,13 +12,13 @@ It is developed for variable fonts consistency, interpolation debugging, and des
 - Uses arrows to clearly indicate direction  
 - Helps spot interpolation issues
 
-## Usfull for
+## Useful For
 - Understanding interpolation direction
 - Debugging variable font axes  
 - Comparing structural changes between masters 
 
 
-## How to use
+## How to Use
 - After installation enable the plugin via: `View > Show Nodes Movement`.
 - Make sure your font has at least **2 masters**.
 - Select the master Layer you want to see the transition **from the previous master**.  
