@@ -1,5 +1,5 @@
 # Nodes-Movement
-A Plugin for [Glyphs.app](https://glyphsapp.com)  that shows the movement of path nodes between masters with arrows representation.
+A Plugin for [Glyphs.app](https://glyphsapp.com) that shows the movement of path nodes between masters with arrows representation.
 
 ![Nodes Movement](images/Screenshot.png)
 
